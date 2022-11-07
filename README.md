@@ -1,5 +1,5 @@
 # Chinese Zodiac Test
-![test workflow](https://github.com/jachurchill/chinese-zodiac-test/actions/workflows/python-app.yml/badge.svg)
+![test workflow](https://github.com/jachurchill/chinese-zodiac/actions/workflows/test-and-coverage.yml/badge.svg)
 ![coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jachurchill/2be2fd8265d0df1ada2565f4e7456a8c/raw/covbadge.json)
 
 Chinese Zodaic Test is an example of automated testing on a simple program that calculates the Chinese zodiac year given a Gregorian calendar year. As this is to be an example of automated testing and coverage, the tests written in pytest as well as a coverage report generated with coverage.py are run with a [GitHub action](https://github.com/jachurchill/chinese-zodiac-test/actions/workflows/python-app.yml).
